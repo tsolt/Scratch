@@ -1,0 +1,45 @@
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java?
+You must first learn to read and write a new language.
+
+2) What is learning to program ultimately about?
+Learning to program is ultimately about learning to think logically and to approach problems methodically. 
+
+3) How does Scratch "lower the bar" to programming?
+ By allowing budding computer scientists to focus on problems rather than syntax, to master programmatic constructs rather than syntax.
+
+4) What is a statement in a programming language?
+A directive that tells the computer to do something.
+
+5) What is a Boolean expression?
+ An expression that is either true or false.
+
+6) What is a conditional statement?
+Something that must be true in order for something to happen.
+
+7) What is a loop used for in a programming language?
+It can induce multiple executions of statements.
+
+8) What is the difference between a local variable and a global variable?
+A local variable can be used by just one sprite; a global variable can be used by all of your sprites.
+
+9) What is a Boolean variable?
+A variable that only takes on a value of true (i.e., 1) or false (i.e., 0).
+
+10) Which type of blocks in Scratch can be considered threads?
+Any block whose label begins with "when" essentially demarks the start of a thread.
+
+11) Which type of blocks in Scratch can be considered event handlers?
+The left-hand thread.
+
+12) How many sprites are implemented in Oscartime?
+Nine.
+
+13) How many threads are used to display the Oscartime game instructions?
+One.
+
+14) How many threads are used by Oscartime's Oscar sprite?
+Three.
+
+15) What programming constructs does Scratch NOT support?
+Programmatic constructs common to many programming languages.
